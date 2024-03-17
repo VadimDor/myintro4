@@ -39,7 +39,7 @@
   </a>
 </p>
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%VadimDor%2Fmyintro4.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%VadimDor%2Fmyintro4?ref=badge_shield)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FVadimDor%2Fmyintro4.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FVadimDor%2Fmyintro4?ref=badge_shield)
 [![CI](https://github.com/VadimDor/myintro4/actions/workflows/main.yml/badge.svg)](https://github.com/VadimDor/myintro4/actions/workflows/main.yml)
 
 Intoduction page of VadimDor with github statictic
@@ -159,7 +159,7 @@ My Home: [Here I am](https://geojson.io/#map=1.42/-15.23/167.129)
 ```
 
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%VadimDor%2Fmyintro4.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%VadimDor%2Fmyintro4?ref=badge_large)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FVadimDor%2Fmyintro4.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FVadimDor%2Fmyintro4?ref=badge_large)
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
