@@ -42,7 +42,7 @@ if [[ $(curl -L \
 else
     echo "GIST for holding of generated github statistic images not found. Trying to create.."
    
-    json="'{\"description\":\"$gist_magic_desc\",\"public\":true,\"files\":{\"README.md\":{\"content\":\"hahaha\"}}}'"
+    json="'{\"description\":\"$gist_magic_desc\",\"public\":true,\"files\":{\"README.md\":{\"content\":\"hahaha\"}}'"
     json=$(echo '{"description":"ddd","public":true,"files":{"README.md":{"content":"hahaha"}}}')
     echo $json
     echo "'$json'"
