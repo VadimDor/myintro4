@@ -33,32 +33,27 @@ gh api \
   /gists 
 # --jq='.description'
 
-msg='test highlight'
+msg='test highlight1'
 if [[ $(curl -L \
   -H "Accept: application/vnd.github+json" \
   -H "Authorization: Bearer $YOUR_TOKEN" \
   -H "X-GitHub-Api-Version: 2022-11-28" \
   https://api.github.com/gists | jq '.[].description') = *\"$msg\"* ]]; then
-    echo "Found! $msg"
+    echo "Found GIST with description '$msg'. Nothing to do."
 else
-    echo "Not found! $msg"
+    echo "GIST for holding of generated github statistic images not found. Trying to create.."
+    curl -L \
+     "Accept: application/vnd.github+json" \
+      -H "Authorization: Bearer $YOUR_TOKEN" \
+      -H "X-GitHub-Api-Version: 2022-11-28" \
+      https://api.github.com/gists \
+      -d '{"description":"Example of a gist","public":false,"files":{"README.md":{"content":$msg}}}'
+    if [ $? -eq 0 ] 
+    then 
+        echo "Configured new GIST as a container for metrics"    
+    else 
+      echo "Could not create GIST. Create first token GIST_SECRET with appropriate permitions." >&2 
+    fi
+
 fi
   
-#curl -L \
-#  -X POST \
-#  -H "Accept: application/vnd.github+json" \
-#  -H "Authorization: Bearer $YOUR_TOKEN" \
-#  -H "X-GitHub-Api-Version: 2022-11-28" \
-#  https://api.github.com/gists \
-#  -d '{"description":"Example of a gist","public":false,"files":{"README.md":{"content":"This gist contains metrics pictures"}}}'
-  
-echo "Configured new gist as a container for metrics"
-#gh api \
-#  --method PUT \
-#  -H "Accept: application/vnd.github+json" \
-#  -H "X-GitHub-Api-Version: 2022-11-28" \
-#  /repos/$author/$repo_name/actions/secrets/METRICS_TOKEN \
-#  -f encrypted_value='c2VjcmV0' \
-#  -f key_id='012345678912345678'
-
-#echo "Configured secret METRICS_TOKEN"
