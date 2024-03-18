@@ -52,6 +52,6 @@ else
     else
        echo "Configured new GIST as a container for metrics"  
     fi     
-    echo "Output from CURL: $m"
+    echo "Output from CURL:  $m"
 fi
   
