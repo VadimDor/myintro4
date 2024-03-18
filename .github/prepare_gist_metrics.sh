@@ -54,6 +54,5 @@ else
     else 
       echo "Could not create GIST. Create first token GIST_SECRET with appropriate permitions." >&2 
     fi
-
 fi
   
