@@ -48,7 +48,7 @@ else
       https://api.github.com/gists \
       -d '{"description":"Example of a gist","public":false,"files":{"README.md":{"content":$msg}}}' 2>&1)
     if [ $? -ne 0 ] ; then
-       echo "Could not create GIST. Create first token GIST_SECRET with appropriate permitions. Error executing CURL: ""$m"
+       echo "Could not create GIST. Create first token GIST_SECRET with appropriate permitions. Error executing CURL: $m"
     else
        echo "Configured new GIST as a container for metrics"  
     fi      
