@@ -76,6 +76,7 @@ else
       #-d '{"description":"ddd","public":true,"files":{"README.md":{"content":"hahaha"}}}' 2>&1)
     if [ $? -ne 0 ] ; then
        echo "Could not create GIST. Create first token GIST_SECRET with appropriate permitions. Error executing CURL: $m"
+       exit 4
     else   
        echo "Configured new GIST as a container for metrics"  
     fi     
