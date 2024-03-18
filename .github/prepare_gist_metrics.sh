@@ -54,7 +54,7 @@ else
        original_gist_id="committer_gist_id"
        for filename in $(git ls-files) 
         do
-            sed -i "s/$original_author/$committer_gist_id/g" "$filename"
+            sed -i "s/$original_gist_id/$committer_gist_id/g" "$filename"
             echo "Substituted in $filename"
         done
     fi     
