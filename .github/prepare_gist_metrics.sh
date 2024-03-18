@@ -56,7 +56,7 @@ else
     #  https://api.github.com/gist \
     #  -d '{"description":"ddd","public":true,"files":{"README.md":{"content":"hahaha"}}}'   
      echo "--------------------" 
-     msg="haha haha1"
+     msg="haha%20haha1"
      echo $msg
      curl -L \
       -X POST \
