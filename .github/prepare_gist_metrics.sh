@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-while getopts a:n:u:d: flag
+while getopts a:n:u:d:g: flag
 do
     # shellcheck disable=SC2220
     case "${flag}" in
