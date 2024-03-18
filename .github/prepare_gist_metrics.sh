@@ -42,14 +42,14 @@ if [[ $(curl -L \
 else
     echo "GIST for holding of generated github statistic images not found. Trying to create.."
    
-    json="'{\"description\":\"'$msg'\",\"public\":false,\"files\":{\"README.md\":{\"content\":\"hahahah\"}}}'"
+    json="'{\"description\":\"$msg\",\"public\":false,\"files\":{\"README.md\":{\"content\":\"$msg\"}}}'"
     echo $json
     m=$(curl -L --fail   \
       -H "Accept: application/vnd.github+json" \
       -H "Authorization: Bearer $YOUR_TOKEN" \
       -H "X-GitHub-Api-Version: 2022-11-28" \
       https://api.github.com/gist \
-      -d '{"description":"'$msg'","public":false,"files":{"README.md":{"content":"hahahah"}}}' 2>&1)
+      -d $json 2>&1)
     if [ $? -ne 0 ] ; then
        echo "Could not create GIST. Create first token GIST_SECRET with appropriate permitions. Error executing CURL: $m"
     else   
