@@ -64,7 +64,7 @@ else
       -H "Authorization: Bearer $YOUR_TOKEN" \
       -H "X-GitHub-Api-Version: 2022-11-28" \
       https://api.github.com/gists \
-      -d '{"description":"'"$gist_magic_desc"'","public":false,"files":{"README.md":{"content":"'"$gist_magic_desc"'"}}}' 2>&1)
+      -d '{"description":"'"$gist_magic_desc"'","public":false,"files":{"README.md":{"content":"'"$gist_magic_desc"'"}}}')
       #-d "'$json'")
 
       #m=$(curl -L --fail   \
@@ -80,6 +80,6 @@ else
        echo "Configured new GIST as a container for metrics"  
     fi     
      echo "Output from CURL: $m"
-     echo $m|jq '.url'
+     echo $m | jq '.url'
 fi
   
