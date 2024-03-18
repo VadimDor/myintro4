@@ -56,13 +56,20 @@ else
     #  https://api.github.com/gist \
     #  -d '{"description":"ddd","public":true,"files":{"README.md":{"content":"hahaha"}}}'   
      echo "--------------------" 
-      m=$(curl -L --fail   \
+     m=$(curl -L \
       -X POST \
       -H "Accept: application/vnd.github+json" \
-      -H "Authorization: Bearer $YOUR_TOKEN" \
+      -H "Authorization: Bearer <YOUR-TOKEN>" \
       -H "X-GitHub-Api-Version: 2022-11-28" \
-      https://api.github.com/gist \
-      -d '{"description":"ddd","public":true,"files":{"README.md":{"content":"hahaha"}}}' 2>&1)
+      https://api.github.com/gists \
+      -d '{"description":"Example of a gist","public":false,"files":{"README.md":{"content":"Hello World"}}}')
+      #m=$(curl -L --fail   \
+      #-X POST \
+      #-H "Accept: application/vnd.github+json" \
+      #-H "Authorization: Bearer $YOUR_TOKEN" \
+      #-H "X-GitHub-Api-Version: 2022-11-28" \
+      #https://api.github.com/gist \
+      #-d '{"description":"ddd","public":true,"files":{"README.md":{"content":"hahaha"}}}' 2>&1)
     if [ $? -ne 0 ] ; then
        echo "Could not create GIST. Create first token GIST_SECRET with appropriate permitions. Error executing CURL: $m"
     else   
