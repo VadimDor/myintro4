@@ -58,13 +58,13 @@ else
      echo "--------------------" 
      msg="haha haha1"
      echo $msg
-     m=$(curl -L \
+     curl -L \
       -X POST \
       -H "Accept: application/vnd.github+json" \
       -H "Authorization: Bearer $YOUR_TOKEN" \
       -H "X-GitHub-Api-Version: 2022-11-28" \
       https://api.github.com/gists \
-      -d '{"description":"'$(echo $msg)'","public":false,"files":{"README.md":{"content":"frfrfr"}}}')
+      -d '{"description":"'$msg'","public":false,"files":{"README.md":{"content":"frfrfr"}}}'
       #-d "'$json'")
 
       #m=$(curl -L --fail   \
