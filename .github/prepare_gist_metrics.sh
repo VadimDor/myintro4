@@ -41,6 +41,8 @@ if [[ $(curl -L \
     echo "Found GIST with description '$msg'. Nothing to do."
 else
     echo "GIST for holding of generated github statistic images not found. Trying to create.."
+    echo "'{"description":"'$msg'","public":false,"files":{"README.md":{"content":"hahahah"}}}'">>$json
+    echo $json
     m=$(curl -L --fail   \
       -H "Accept: application/vnd.github+json" \
       -H "Authorization: Bearer $YOUR_TOKEN" \
