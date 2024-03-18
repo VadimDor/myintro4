@@ -62,7 +62,7 @@ else
       -H "Authorization: Bearer $YOUR_TOKEN" \
       -H "X-GitHub-Api-Version: 2022-11-28" \
       https://api.github.com/gist \
-      -d $json 2>&1)
+      -d "'$json'" 2>&1)
     if [ $? -ne 0 ] ; then
        echo "Could not create GIST. Create first token GIST_SECRET with appropriate permitions. Error executing CURL: $m"
     else   
