@@ -49,7 +49,7 @@ else
     else   
        echo "Configured new GIST as a container for metrics"  
        echo "Output from CURL: $m"
-       committer_gist_id=$(echo "$m" | jq '.id')
+       committer_gist_id=$(echo "$m" | jq --raw-output '.id')
        echo $committer_gist_id
        original_gist_id="committer_gist_id"
        for filename in $(git ls-files) 
