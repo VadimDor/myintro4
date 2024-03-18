@@ -42,9 +42,11 @@ if [[ $(curl -L \
 else
     echo "GIST for holding of generated github statistic images not found. Trying to create.."
    
-    json="'{\"description\":\"$msg\",\"public\":false,\"files\":{\"README.md\":{\"content\":\"$msg\"}}}'"
+    json="'{\"description\":\"$msg\",\"public\":true,\"files\":{\"README.md\":{\"content\":\"hahaha\"}}}'"
     echo $json
-    m=$(curl -L --fail   \
+   #  -d '{"description":"edede","public":true,"files":{"README.md":{"content":"Tdee"}}}'
+   #     '{"description":"tdddd","public":true,"files":{"README.md":{"content":"cddc"}}}'
+      m=$(curl -L --fail   \
       -H "Accept: application/vnd.github+json" \
       -H "Authorization: Bearer $YOUR_TOKEN" \
       -H "X-GitHub-Api-Version: 2022-11-28" \
