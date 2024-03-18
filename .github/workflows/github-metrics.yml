@@ -26,7 +26,7 @@ jobs:
           user: vadimdor
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/core/README.md#using-gists
           output_action: gist
-          committer_gist: "78cf1ef46e6012f7fd0e032157ca2523"
+          committer_gist: committer_gist_id
           # committer_message: "chore($metrics): update GitHub metrics via GitHub Actions"
           template: classic
           base: header, activity, community, repositories, metadata
