@@ -22,7 +22,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: github-metrics-myintro4.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GIST_SECRET }}
           user: vadimdor
           # https://github.com/lowlighter/metrics/blob/master/source/plugins/core/README.md#using-gists
           output_action: gist
