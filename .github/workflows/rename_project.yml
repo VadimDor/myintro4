@@ -54,6 +54,7 @@ jobs:
         #if: steps.is_template.outputs.is_template == 'true'
         env:
           GISTTOKEN: ${{ secrets.GIST_SECRET }}
+          GH_TOKEN: ${{ github.token }}            
         run: |
           echo "Preparing gist with -a(author) ${{ env.REPOSITORY_OWNER }} -n(name) ${{ env.REPOSITORY_NAME }} -u(urlname) ${{ env.REPOSITORY_URLNAME }}"
           chmod u+x .github/prepare_gist_metrics.sh
