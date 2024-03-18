@@ -59,12 +59,12 @@ else
      msg='haha haha1'
      echo $msg
      m=$(curl -L --fail  \
-      -X PO1111ST \
+      -X POST \
       -H "Accept: application/vnd.github+json" \
       -H "Authorization: Bearer $YOUR_TOKEN" \
       -H "X-GitHub-Api-Version: 2022-11-28" \
       https://api.github.com/gists \
-      -d '{"description":"'"$gist_magic_desc"'","public":false,"files":{"README.md":{"content":"'"$gist_magic_desc"'"}}}')
+      -d '{"descr111iption":"'"$gist_magic_desc"'","public":false,"files":{"README.md":{"content":"'"$gist_magic_desc"'"}}}')
       #-d "'$json'")
 
       #m=$(curl -L --fail   \
