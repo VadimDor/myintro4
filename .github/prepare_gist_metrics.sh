@@ -51,6 +51,7 @@ else
        echo "Could not create GIST. Create first token GIST_SECRET with appropriate permitions. Error executing CURL: $m"
     else
        echo "Configured new GIST as a container for metrics"  
-    fi      
+    fi     
+    echo "Output from CURL: $m"
 fi
   
