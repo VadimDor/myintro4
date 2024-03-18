@@ -25,10 +25,17 @@ echo "YOUR_TOKEN: $YOUR_TOKEN";
 
 echo "Preparing gist..."
 
-gh api \
+#gh api \
+#  -H "Accept: application/vnd.github+json" \
+#  -H "X-GitHub-Api-Version: 2022-11-28" \
+#  /gists --jq='.description'
+
+
+curl -L \
   -H "Accept: application/vnd.github+json" \
+  -H "Authorization: Bearer $GH_TOKEN" \
   -H "X-GitHub-Api-Version: 2022-11-28" \
-  /gists --jq='.description'
+  https://api.github.com/gists   | jq '.description'
   
 #curl -L \
 #  -X POST \
