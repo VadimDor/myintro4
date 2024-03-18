@@ -67,6 +67,8 @@ jobs:
             -g "This is a GIST for holding of generated github statistic images"
                           
       - uses: stefanzweifel/git-auto-commit-action@v5
+        env:
+          GH_TOKEN: ${{ secrets.GIST_SECRET }}
         with:
           commit_message: "✅ Ready to code."
           # commit_options: '--amend --no-edit'
