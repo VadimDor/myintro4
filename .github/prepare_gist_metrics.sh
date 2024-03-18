@@ -42,7 +42,7 @@ if [[ $(curl -L \
 else
     echo "GIST for holding of generated github statistic images not found. Trying to create.."
    
-    json="'{"description":"'$msg'","public":false,"files":{"README.md":{"content":"hahahah"}}}'"
+    json="'{\"description\":\"'$msg'\",\"public\":false,\"files\":{\"README.md\":{\"content\":\"hahahah\"}}}'"
     echo $json
     m=$(curl -L --fail   \
       -H "Accept: application/vnd.github+json" \
