@@ -39,7 +39,9 @@ if [[ $(curl -L \
   -H "Authorization: Bearer $YOUR_TOKEN" \
   -H "X-GitHub-Api-Version: 2022-11-28" \
   https://api.github.com/gists | jq '.[].description') = *'test highlight'* ]]; then
-    echo 'Found!'
+    echo "Found! $msg"
+else
+    echo "Not found! $msg"
 fi
   
 #curl -L \
