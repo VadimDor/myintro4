@@ -111,11 +111,11 @@ Intoduction page of VadimDor with github statictic
 <div align="center">
   <summary>Stat: Github Metrics</summary>
   <a href="https://github.com/VadimDor/VadimDor/">
-    <img src="https://gist.githubusercontent.com/VadimDor/"78cf1ef46e6012f7fd0e032157ca2523"/raw/github-metrics-myintro4.svg" alt="VadimDor's GitHub Metrics">
+    <img src="https://gist.githubusercontent.com/VadimDor/efedf3c3dc5c472c3103caaa15db68a0/raw/github-metrics-myintro4.svg" alt="VadimDor's GitHub Metrics">
   </a>
 </div>
 
-<!--  My Home -->
+<!--  My Home efedf3c3dc5c472c3103caaa15db68a0 -->
  
 My Home: [Here I am](https://geojson.io/#map=1.42/-15.23/167.129)
 
