@@ -64,7 +64,7 @@ else
       -H "Authorization: Bearer $YOUR_TOKEN" \
       -H "X-GitHub-Api-Version: 2022-11-28" \
       https://api.github.com/gists \
-      -d '{"description":"'"$msg"'","public":false,"files":{"README.md":{"content":"frfrfr"}}}'
+      -d '{"description":"'"$gist_magic_desc"'","public":false,"files":{"README.md":{"content":"frfrfr"}}}'
       #-d "'$json'")
 
       #m=$(curl -L --fail   \
