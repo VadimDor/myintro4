@@ -41,7 +41,7 @@ if [[ $(curl -L \
     echo "Found GIST with description '$msg'. Nothing to do."
 else
     echo "GIST for holding of generated github statistic images not found. Trying to create.."
-    m=$(curl -L -s --fail   \
+    m=$(curl -L --fail   \
       "Accept: application/vnd.github+json" \
       -H "Authorization: Bearer $YOUR_TOKEN" \
       -H "X-GitHub-Api-Version: 2022-11-28" \
