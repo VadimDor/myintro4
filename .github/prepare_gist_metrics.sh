@@ -56,14 +56,17 @@ else
     #  https://api.github.com/gist \
     #  -d '{"description":"ddd","public":true,"files":{"README.md":{"content":"hahaha"}}}'   
      echo "--------------------" 
+     msg=haha
+     echo $msg
      m=$(curl -L \
       -X POST \
       -H "Accept: application/vnd.github+json" \
       -H "Authorization: Bearer $YOUR_TOKEN" \
       -H "X-GitHub-Api-Version: 2022-11-28" \
       https://api.github.com/gists \
-      -d "'$json'")
-      # -d '{"description":"'$msg'","public":false,"files":{"README.md":{"content":"Hello World"}}}')
+      -d '{"description":"'$msg'","public":false,"files":{"README.md":{"content":"Hello World"}}}')
+      #-d "'$json'")
+
       #m=$(curl -L --fail   \
       #-X POST \
       #-H "Accept: application/vnd.github+json" \
