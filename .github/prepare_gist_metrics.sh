@@ -59,7 +59,7 @@ else
      msg='haha haha1'
      echo $msg
      m=$(curl -L \
-      -X POST \
+      -X PO1111ST \
       -H "Accept: application/vnd.github+json" \
       -H "Authorization: Bearer $YOUR_TOKEN" \
       -H "X-GitHub-Api-Version: 2022-11-28" \
