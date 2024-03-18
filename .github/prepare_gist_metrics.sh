@@ -49,14 +49,15 @@ else
    #  -d '{"description":"edede","public":true,"files":{"README.md":{"content":"Tdee"}}}'
    #     '{"description":"tdddd","public":true,"files":{"README.md":{"content":"cddc"}}}'
    #  -d '{"description":"fffff","public":true,"files":{"README.md":{"content":"ffff"}}}'
-    curl -L --fail   \
-      -H "Accept: application/vnd.github+json" \
-      -H "Authorization: Bearer $YOUR_TOKEN" \
-      -H "X-GitHub-Api-Version: 2022-11-28" \
-      https://api.github.com/gist \
-      -d '{"description":"ddd","public":true,"files":{"README.md":{"content":"hahaha"}}}'   
+    #curl -L --fail   \
+    #  -H "Accept: application/vnd.github+json" \
+    #  -H "Authorization: Bearer $YOUR_TOKEN" \
+    #  -H "X-GitHub-Api-Version: 2022-11-28" \
+    #  https://api.github.com/gist \
+    #  -d '{"description":"ddd","public":true,"files":{"README.md":{"content":"hahaha"}}}'   
      echo "--------------------" 
       m=$(curl -L --fail   \
+      -X POST \
       -H "Accept: application/vnd.github+json" \
       -H "Authorization: Bearer $YOUR_TOKEN" \
       -H "X-GitHub-Api-Version: 2022-11-28" \
