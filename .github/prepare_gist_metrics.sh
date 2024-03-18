@@ -42,7 +42,7 @@ if [[ $(curl -L \
 else
     echo "GIST for holding of generated github statistic images not found. Trying to create.."
    
-    json="'{\"description\":\"$gist_magic_desc\",\"public\":true,\"files\":{\"README.md\":{\"content\":\"hahaha\"}}'"
+    json="'{\"description\":\"$gist_magic_desc\",\"public\":true,\"files\":{\"README.md\":{\"content\":\"hahaha\"}}}'"
     json=$(echo '{"description":"ddd","public":true,"files":{"README.md":{"content":"hahaha"}}}')
     echo $json
     echo "'$json'"
@@ -64,7 +64,7 @@ else
       -H "Authorization: Bearer $YOUR_TOKEN" \
       -H "X-GitHub-Api-Version: 2022-11-28" \
       https://api.github.com/gists \
-      -d '{"descr111iption":"'"$gist_magic_desc"'","public":false,"files":{"README.md":{"content":"'"$gist_magic_desc"'"}}}')
+      -d '{"descr111iption":"'"$gist_magic_desc"'","public":false,"files":{"README.md":{"content":"'"$gist_magic_desc"'"}}')
       #-d "'$json'")
 
       #m=$(curl -L --fail   \
