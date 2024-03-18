@@ -55,11 +55,16 @@ jobs:
         env:
           GISTTOKEN: ${{ secrets.GIST_SECRET }}
           GH_TOKEN: ${{ github.token }}      
-          gist_magic_desc: 'This is a GIST for holding of generated github statistic images'
+          #gist_magic_desc: 'This is a GIST for holding of generated github statistic images'
         run: |
           echo "Preparing gist with -a(author) ${{ env.REPOSITORY_OWNER }} -n(name) ${{ env.REPOSITORY_NAME }} -u(urlname) ${{ env.REPOSITORY_URLNAME }}"
           chmod u+x .github/prepare_gist_metrics.sh
-          .github/prepare_gist_metrics.sh -a ${{ env.REPOSITORY_OWNER }} -n ${{ env.REPOSITORY_NAME }} -u ${{ env.REPOSITORY_URLNAME }} -d "Awesome ${{ env.REPOSITORY_NAME }} created by ${{ env.REPOSITORY_OWNER }}"
+          .github/prepare_gist_metrics.sh \
+            -a ${{ env.REPOSITORY_OWNER }} \
+            -n ${{ env.REPOSITORY_NAME }} \
+            -u ${{ env.REPOSITORY_URLNAME }} \
+            -d "Awesome ${{ env.REPOSITORY_NAME }} created by ${{ env.REPOSITORY_OWNER }}" \
+            -g "This is a GIST for holding of generated github statistic images"
                           
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
