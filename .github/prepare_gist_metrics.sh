@@ -25,7 +25,7 @@ echo "YOUR_TOKEN: $YOUR_TOKEN";
 
 echo "Preparing gist..."
 
-echo $GH_TOKEN | gh auth login --with-token
+echo $YOUR_TOKEN | gh auth login --with-token
 #gh api repos/${{ GITHUB.REPOSITORY }}/issues  --jq '.[].title'
 gh api \
   -H "Accept: application/vnd.github+json" \
@@ -36,7 +36,7 @@ gh api \
 
 curl -L \
   -H "Accept: application/vnd.github+json" \
-  -H "Authorization: Bearer $GH_TOKEN" \
+  -H "Authorization: Bearer $YOUR_TOKEN" \
   -H "X-GitHub-Api-Version: 2022-11-28" \
   https://api.github.com/gists  
 #  | jq '.description'
