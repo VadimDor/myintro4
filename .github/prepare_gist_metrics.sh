@@ -25,13 +25,12 @@ echo "YOUR_TOKEN: $YOUR_TOKEN";
 
 echo "Preparing gist..."
 
-echo "$YOUR_TOKEN" | gh auth login --with-token
+#echo "$YOUR_TOKEN" | gh auth login --with-token
 #gh api repos/${{ GITHUB.REPOSITORY }}/issues  --jq '.[].title'
-gh api \
-  -H "Accept: application/vnd.github+json" \
-  -H "X-GitHub-Api-Version: 2022-11-28" \
-  /gists 
-# --jq='.description'
+#gh api \
+#  -H "Accept: application/vnd.github+json" \
+#  -H "X-GitHub-Api-Version: 2022-11-28" \
+#  /gists  --jq='.[].description'
 
 msg='test highlight1'
 if [[ $(curl -L \
@@ -47,7 +46,7 @@ else
       -H "Authorization: Bearer $YOUR_TOKEN" \
       -H "X-GitHub-Api-Version: 2022-11-28" \
       https://api.github.com/gists \
-      -d '{"description":"Example of a gist","public":false,"files":{"README.md":{"content":$msg}}}'
+      -d '{"description":"Example of a gist","public":false,"files":{"README.md":{"content":\"$msg\"}}}'
     if [ $? -eq 0 ] 
     then 
         echo "Configured new GIST as a container for metrics"    
