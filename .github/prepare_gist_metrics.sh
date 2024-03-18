@@ -25,13 +25,18 @@ echo "YOUR_TOKEN: $YOUR_TOKEN";
 
 echo "Preparing gist...  $(github.token)"
 
-curl -L \
-  -X POST \
+gh api \
   -H "Accept: application/vnd.github+json" \
-  -H "Authorization: Bearer $YOUR_TOKEN" \
   -H "X-GitHub-Api-Version: 2022-11-28" \
-  https://api.github.com/gists \
-  -d '{"description":"Example of a gist","public":false,"files":{"README.md":{"content":"This gist contains metrics pictures"}}}'
+  /gists --jq='.description'
+  
+#curl -L \
+#  -X POST \
+#  -H "Accept: application/vnd.github+json" \
+#  -H "Authorization: Bearer $YOUR_TOKEN" \
+#  -H "X-GitHub-Api-Version: 2022-11-28" \
+#  https://api.github.com/gists \
+#  -d '{"description":"Example of a gist","public":false,"files":{"README.md":{"content":"This gist contains metrics pictures"}}}'
   
 echo "Configured new gist as a container for metrics"
 #gh api \
