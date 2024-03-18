@@ -23,7 +23,7 @@ YOUR_TOKEN=$GISTTOKEN
 echo "YOUR_TOKEN: $YOUR_TOKEN";
 
 
-echo "Preparing gist...  $(github.token)"
+echo "Preparing gist..."
 
 gh api \
   -H "Accept: application/vnd.github+json" \
