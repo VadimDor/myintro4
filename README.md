@@ -111,7 +111,7 @@ Intoduction page of VadimDor with github statictic
 <div align="center">
   <summary>Stat: Github Metrics</summary>
   <a href="https://github.com/VadimDor/VadimDor/">
-    <img src="https://gist.githubusercontent.com/VadimDor/18c656e56b86c137ed45ab71b9227ad6/raw/github-metrics.svg" alt="VadimDor's GitHub Metrics">
+    <img src="https://gist.githubusercontent.com/VadimDor/committer_gist_id/raw/github-metrics-myintro4.svg" alt="VadimDor's GitHub Metrics">
   </a>
 </div>
 
