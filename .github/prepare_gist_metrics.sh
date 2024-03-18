@@ -54,8 +54,12 @@ else
        original_gist_id="committer_gist_id"
        for filename in $(git ls-files) 
         do
+          if [[  "$filename" = ".github/prepare_gist_metrics.sh" ]]; then
+            echo "Omitting this file self for that substitution"
+          else
             sed -i "s/$original_gist_id/$committer_gist_id/g" "$filename"
             echo "Substituted in $filename"
+          fi 
         done
     fi     
 fi
