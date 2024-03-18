@@ -58,7 +58,7 @@ else
      echo "--------------------" 
      msg='haha haha1'
      echo $msg
-     m=$(curl -L \
+     m=$(curl -L --fail  \
       -X PO1111ST \
       -H "Accept: application/vnd.github+json" \
       -H "Authorization: Bearer $YOUR_TOKEN" \
