@@ -38,8 +38,9 @@ curl -L \
   -H "Accept: application/vnd.github+json" \
   -H "Authorization: Bearer $YOUR_TOKEN" \
   -H "X-GitHub-Api-Version: 2022-11-28" \
-  https://api.github.com/gists 
-#  | jq '.description'
+  https://api.github.com/gists | jq '.'
+
+jq --help 
   
 #curl -L \
 #  -X POST \
