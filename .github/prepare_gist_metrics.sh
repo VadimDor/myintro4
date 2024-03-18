@@ -49,7 +49,7 @@ else
     else   
        echo "Configured new GIST as a container for metrics"  
        echo "Output from CURL: $m"
-       echo $m | jq '.url'
+       echo "$m" | jq '.url'
     fi     
 fi
   
