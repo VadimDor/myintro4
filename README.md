@@ -114,16 +114,9 @@
   </a>
 </div>
 
-<!--  My Home efedf3c3dc5c472c3103caaa15db68a0 -->
  
 [🙋 Here I am](https://geojson.io/#map=1.98/-22.18/164.68)
-<table width="50%">
-  <thead>
-  <!-- Left thead blank intentionally -->
-  </thead>
-  <tbody>
-    <tr>
-      <td>
+
 ```geojson
 {
   "type": "FeatureCollection",
@@ -164,14 +157,7 @@
   ]
 }
 ```
-      </td>
-    </tr>
-  </tbody>
-</table>
 
-
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FVadimDor%2Fmyintro4.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FVadimDor%2Fmyintro4?ref=badge_large)
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
