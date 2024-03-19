@@ -3,9 +3,13 @@
 <p align="center"><sub>#TODO:</sub><sup>change your our moto</sup></p>
 <!--  DELETE THE LINES BELOW THIS AFTER THIS TODO IS DONE -->
 <details open><summary><sub> #TODO:</sub> <sup>proceed with creation of TOKENS</sup></summary>
+  
   DELETE THE LINES BELOW THIS AFTER THIS TODO IS DONE
+  
   <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img>
+  
    On the new repository `settings->secrets` add your `GIST_SECRET` 
+   
  </details>
 <!--  DELETE THE LINES ABOVE THIS AFTER THIS TODO IS DONE -->
 ---
@@ -38,6 +42,7 @@
     <img align="center" alt="Instagram" src="https://img.shields.io/badge/Follow%20me%20on%20Instagram-informational?style=flat&logo=instagram&logoColor=E4405F&color=grey">
   </a>
 </p>
+
 ## Intoduction page of VadimDor with github statictic
  
 <div align="center">
