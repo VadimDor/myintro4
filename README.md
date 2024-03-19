@@ -43,8 +43,6 @@
   </a>
 </p>
 
-## Intoduction page of VadimDor with github statictic
- 
 <div align="center">
     <a href="https://github.com/VadimDor">
         <img width="200" height="200" src="./assets/profile.png"></img>
@@ -74,7 +72,7 @@
   <img align="center" src="https://wakatime.com/share/@VadimDor/12345.svg" alt="VadimDor's WakaTime coding activity" />
 </p>
 
-## <a href="mailto:VadimDor@gmail.com" target="blank">📫 Connect with Me</a>
+## 📫 Connect with <a href="mailto:VadimDor@gmail.com" target="blank">Me</a>
 
 ## 📈 My Activity Graph
 <table width="100%">
