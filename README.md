@@ -11,7 +11,7 @@
 <!--  DELETE THE LINES ABOVE THIS AFTER THIS TODO IS DONE -->
 ---
 # myintro4
-
+<img width="100%" height="200" src="assets/top-welcome.svg"></img>
 ![](assets/top-welcome.svg)
 # Hi there, I'm [VadimDor](https://github.com/VadimDor/)! <img src="assets/wave.gif" width="30px">
 >  I'm a ...specializing in ... 
