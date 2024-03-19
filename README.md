@@ -114,9 +114,7 @@
   </a>
 </div>
 
- 
 [🙋 Here I am](https://geojson.io/#map=1.98/-22.18/164.68)
-
 ```geojson
 {
   "type": "FeatureCollection",
