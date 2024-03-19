@@ -72,7 +72,7 @@
   <img align="center" src="https://wakatime.com/share/@VadimDor/12345.svg" alt="VadimDor's WakaTime coding activity" />
 </p>
 
-## 📫 Connect with <a href="mailto:VadimDor@gmail.com" target="blank">Me</a>
+## 🙋 Connect with <a href="mailto:VadimDor@gmail.com" target="blank">Me 📫</a>
 
 ## 📈 My Activity Graph
 <table width="100%">
@@ -116,7 +116,7 @@
 
 <!--  My Home efedf3c3dc5c472c3103caaa15db68a0 -->
  
-My Home: [Here I am](https://geojson.io/#map=1.42/-15.23/167.129)
+[🙋 Here I am](https://geojson.io/#map=1.98/-22.18/164.68)
 
 ```geojson
 {
@@ -124,29 +124,31 @@ My Home: [Here I am](https://geojson.io/#map=1.42/-15.23/167.129)
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Here": "I am"
+      },
       "geometry": {
         "coordinates": [
           [
             [
-              167.138,
-              -15.225
+              160.3788204607913,
+              -12.809666431886669
             ],
             [
-              167.118,
-              -15.21
+              160.3788204607913,
+              -24.92289782264521
             ],
             [
-              167.148,
-              -15.21
+              176.84150345357,
+              -24.92289782264521
             ],
             [
-              167.148,
-              -15.25
+              176.84150345357,
+              -12.809666431886669
             ],
             [
-              167.118,
-              -15.26
+              160.3788204607913,
+              -12.809666431886669
             ]
           ]
         ],
