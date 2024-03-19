@@ -111,7 +111,9 @@
     <img src="https://gist.githubusercontent.com/VadimDor/efedf3c3dc5c472c3103caaa15db68a0/raw/github-metrics-myintro4.svg" alt="VadimDor's GitHub Metrics">
   </a>
 </div>
+
 ## 🙋 Connect with <a href="mailto:VadimDor@gmail.com" target="blank">Me 📫</a>
+
 [🙋 Here I am](https://geojson.io/#map=1.98/-22.18/164.68)
 ```geojson
 {
