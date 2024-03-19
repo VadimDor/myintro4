@@ -2,7 +2,7 @@
 <h2 align="center"><b>Jack of all trades, master of a few</b></h2>
 <p align="center"><sub>#TODO:</sub><sup>change your moto ^^^</sup></p>
 <!--  DELETE THE LINES BELOW THIS AFTER THIS TODO IS DONE -->
-<details open><summary><sub> #TODO:</sub> <sup>proceed with creation of TOKENS</sup></summary>
+<details close><summary><sub> #TODO:</sub> <sup>proceed with creation of TOKENS</sup><sub>CLICK HERE TO OPEN INSTRUCTIONS SECTION</sub></summary>
   
   DELETE THE LINES BELOW THIS AFTER THIS TODO IS DONE
   
