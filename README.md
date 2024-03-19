@@ -112,9 +112,9 @@
   </a>
 </div>
 
-## 🙋 Connect with <a href="mailto:VadimDor@gmail.com" target="blank">Me 📫</a>
+## 📫 Connect with <a href="mailto:VadimDor@gmail.com" target="blank">Me 📧</a>
 
-[🙋 Here I am](https://geojson.io/#map=1.98/-22.18/164.68)
+[🌴 Here I am](https://geojson.io/#map=1.98/-22.18/164.68)
 ```geojson
 {
   "type": "FeatureCollection",
