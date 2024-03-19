@@ -1,22 +1,23 @@
 
 <h2 align="center"><b>Jack of all trades, master of a few</b></h2>
-<sub> #TODO: change your our moto </sub>
-
-
+<sub> #TODO:</sub><sup>change your our moto</sup>
 <!--  DELETE THE LINES BELOW THIS AFTER THIS TODO IS DONE -->
-#TODO: proceed with creation of TOKENS
- 
-  On the new repository `settings->secrets` add your `GIST_SECRET`  
-
+<details open><summary><sub> #TODO:</sub> <sup>proceed with creation of TOKENS</sup></summary>
+  <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt="">
+DELETE THE LINES BELOW THIS AFTER THIS TODO IS DONE</img>
+   On the new repository `settings->secrets` add your `GIST_SECRET` 
+ </details>
 <!--  DELETE THE LINES ABOVE THIS AFTER THIS TODO IS DONE -->
 ---
-# myintro4
 <img width="100%" src="assets/top-welcome.svg"></img>
 # Hi there, I'm [VadimDor](https://github.com/VadimDor/)! <img src="assets/wave.gif" width="30px">
 >  I'm a ...specializing in ... 
  with over ... years of expertise.
+
 > I'm particularly experienced with ...
+
 > I always love to ...
+
 ![](assets/bottom-wave.svg)
 
 <p align="center">
@@ -36,7 +37,7 @@
     <img align="center" alt="Instagram" src="https://img.shields.io/badge/Follow%20me%20on%20Instagram-informational?style=flat&logo=instagram&logoColor=E4405F&color=grey">
   </a>
 </p>
-### Intoduction page of VadimDor with github statictic
+## Intoduction page of VadimDor with github statictic
  
 <div align="center">
     <a href="https://github.com/VadimDor">
@@ -59,7 +60,7 @@
 
 [![Pin GitHub Repo, row 1, col 1](https://github-readme-stats.vercel.app/api/pin/?username=VadimDor&repo=myintro4&theme=transparent)](https://github.com/VadimDor/myintro4) [![Pin GitHub Repo, row 1, col 2](https://github-readme-stats.vercel.app/api/pin/?username=VadimDor&repo=myintro4&theme=transparent)](https://github.com/VadimDor/myintro4)
 
-## WakaTime Activity
+## 📊 WakaTime Activity
 
 <img src="https://wakatime.com/badge/user/12345.svg"/>
 
