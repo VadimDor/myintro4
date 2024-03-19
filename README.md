@@ -1,6 +1,6 @@
 
 <h2 align="center"><b>Jack of all trades, master of a few</b></h2>
-### #TODO: change your our moto  
+<sub> #TODO: change your our moto </sub>sub> 
 <!--  DELETE THE LINES BELOW THIS AFTER THIS TODO IS DONE -->
 #TODO: proceed with creation of TOKENS
  
