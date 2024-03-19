@@ -10,9 +10,10 @@
 <!--  DELETE THE LINES ABOVE THIS AFTER THIS TODO IS DONE -->
 ---
 <img width="100%" src="assets/top-welcome.svg"></img>
+
 # Hi there, I'm [VadimDor](https://github.com/VadimDor/)! <img src="assets/wave.gif" width="30px">
->  I'm a ...specializing in ... 
- with over ... years of expertise.
+
+>  I'm a ...specializing in ...  with over ... years of expertise.
 
 > I'm particularly experienced with ...
 
