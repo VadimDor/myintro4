@@ -64,7 +64,7 @@
 
 [![Pin GitHub Repo, row 1, col 1](https://github-readme-stats.vercel.app/api/pin/?username=VadimDor&repo=myintro4&theme=transparent)](https://github.com/VadimDor/myintro4) [![Pin GitHub Repo, row 1, col 2](https://github-readme-stats.vercel.app/api/pin/?username=VadimDor&repo=myintro4&theme=transparent)](https://github.com/VadimDor/myintro4)
 
-## 📊 WakaTime Activity
+## ⏰ WakaTime Activity
 
 <img src="https://wakatime.com/badge/user/12345.svg"/>
 
@@ -105,7 +105,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VadimDor&no-bg=true"></a>
 </div>
 
-<h2 align="center"><b>Metrics</b></h2>
+<h2 align="center"><b>📊 Metrics</b></h2>
 
 <div align="center">
   <summary>Stat: Github Metrics</summary>
