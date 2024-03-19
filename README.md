@@ -1,6 +1,8 @@
 
 <h2 align="center"><b>Jack of all trades, master of a few</b></h2>
-<sub> #TODO: change your our moto </sub>sub> 
+<sub> #TODO: change your our moto </sub>
+
+
 <!--  DELETE THE LINES BELOW THIS AFTER THIS TODO IS DONE -->
 #TODO: proceed with creation of TOKENS
  
@@ -11,14 +13,11 @@
 # myintro4
 
 ![](assets/top-welcome.svg)
-
 # Hi there, I'm [VadimDor](https://github.com/VadimDor/)! <img src="assets/wave.gif" width="30px">
-
 >  I'm a ...specializing in ... 
  with over ... years of expertise.
 > I'm particularly experienced with ...
 > I always love to ... 
-
 ![](assets/bottom-wave.svg)
 
 <p align="center">
@@ -38,11 +37,7 @@
     <img align="center" alt="Instagram" src="https://img.shields.io/badge/Follow%20me%20on%20Instagram-informational?style=flat&logo=instagram&logoColor=E4405F&color=grey">
   </a>
 </p>
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FVadimDor%2Fmyintro4.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FVadimDor%2Fmyintro4?ref=badge_shield)
-[![CI](https://github.com/VadimDor/myintro4/actions/workflows/main.yml/badge.svg)](https://github.com/VadimDor/myintro4/actions/workflows/main.yml)
-
-Intoduction page of VadimDor with github statictic
+### Intoduction page of VadimDor with github statictic
  
 <div align="center">
     <a href="https://github.com/VadimDor">
