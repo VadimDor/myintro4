@@ -1,10 +1,10 @@
 
 <h2 align="center"><b>Jack of all trades, master of a few</b></h2>
-<sub> #TODO:</sub><sup>change your our moto</sup>
+<p align="center"><sub>#TODO:</sub><sup>change your our moto</sup></p>
 <!--  DELETE THE LINES BELOW THIS AFTER THIS TODO IS DONE -->
 <details open><summary><sub> #TODO:</sub> <sup>proceed with creation of TOKENS</sup></summary>
-  <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt="">
-DELETE THE LINES BELOW THIS AFTER THIS TODO IS DONE</img>
+  DELETE THE LINES BELOW THIS AFTER THIS TODO IS DONE
+  <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img>
    On the new repository `settings->secrets` add your `GIST_SECRET` 
  </details>
 <!--  DELETE THE LINES ABOVE THIS AFTER THIS TODO IS DONE -->
