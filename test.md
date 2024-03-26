@@ -33,7 +33,7 @@ LCF78-50JA
 
 **7/8" CELLFLEX® Low-Loss Foam-Dielectric flexible Coaxial Cable, Corrugate | Low VSWR | 85.0 kW | 5.0 GHz**
 
-За дополнительной информацией и по вопросам приобретения обращаться к специалистам отдела продаж по email: [market@tt-telecom.ru](mailto:market@tt-telecom.ru)
+За дополнительной информацией и по вопросам приобретения обращаться к специалистам отдела продаж по email: [market@domain.ru](mailto:market@domain.ru)
 
 * * *
 
@@ -44,10 +44,10 @@ LCF78-50JA
 | **Кабели типовые** |     |     |
 | Обозначение | Наружная оболочка | Особенности |
 | LCF78-50JA | Полиэтилен, PE | Типовой. Внешний проводник медь |
-| [LCF78-50JFNA](http://www.tt-telecom.ru/catalog/sistemy_radiosvyazi/fidernyy-kabel/4926/?sphrase_id=8723&clear_cache=Y) | Полиэтилен. Начинка \- гидроксид металла | Огнестойкий, LS0H. Внешний проводник медь |
-| [LCF78-50JL](http://www.tt-telecom.ru/catalog/sistemy_radiosvyazi/fidernyy-kabel/4928/?sphrase_id=8724) | Полиэтилен, PE | Типовой, уменьшенный в весе. Внешний проводник алюминий |
-| [LCF78-50JFNL](http://www.tt-telecom.ru/catalog/sistemy_radiosvyazi/fidernyy-kabel/4927/) | Полиэтилен. Начинка \- гидроксид металла | Огнестойкий, LS0H. Внешний проводник алюминий |
-| [LCF78-50CPR](http://www.tt-telecom.ru/catalog/kabelnaya-produktsiya/koaksialnyy-kabel-50-om/kabeli-rfs/7-8-cellflex/lcf78-50cpr/?sphrase_id=17145) | Полиэтилен. Начинка \- гидроксид металла | Огнестойкий, LS0H. Соответствует требованиям нового регламента (EU) №  305/2011 |
+| [LCF78-50JFNA](http://www.domain.ru/catalog/sistemy_radiosvyazi/fidernyy-kabel/4926/?sphrase_id=8723&clear_cache=Y) | Полиэтилен. Начинка \- гидроксид металла | Огнестойкий, LS0H. Внешний проводник медь |
+| [LCF78-50JL](http://www.domain.ru/catalog/sistemy_radiosvyazi/fidernyy-kabel/4928/?sphrase_id=8724) | Полиэтилен, PE | Типовой, уменьшенный в весе. Внешний проводник алюминий |
+| [LCF78-50JFNL](http://www.domain.ru/catalog/sistemy_radiosvyazi/fidernyy-kabel/4927/) | Полиэтилен. Начинка \- гидроксид металла | Огнестойкий, LS0H. Внешний проводник алюминий |
+| [LCF78-50CPR](http://www.domain.ru/catalog/kabelnaya-produktsiya/koaksialnyy-kabel-50-om/kabeli-rfs/7-8-cellflex/lcf78-50cpr/?sphrase_id=17145) | Полиэтилен. Начинка \- гидроксид металла | Огнестойкий, LS0H. Соответствует требованиям нового регламента (EU) №  305/2011 |
 
   
 
@@ -73,9 +73,9 @@ LCF78-50JA
 
 Для данного кабеля доступны разъемы в версиях 7-16, 4.3-10 и N. Для получения подробной информации перейдите по ссылкам:  
 
-* [Коаксиальные разъемы RFS для кабеля LCF78-50. Брошюра](http://www.tt-telecom.ru/upload/iblock/e3e/e3e06e60e37bc55fcb972f791ed04024.pdf)
-* [Коаксиальные разъемы Telegärtner для LCF78-50. Брошюра](http://www.tt-telecom.ru/upload/iblock/be5/be5c46776f6ddc61529020146f4c8c5e.pdf)
-* [Коаксиальные разъемы SPINNER для LCF78-50. Брошюра](http://www.tt-telecom.ru/upload/iblock/ded/ded9445296e95f735f0c827598a48f03.pdf)
+* [Коаксиальные разъемы RFS для кабеля LCF78-50. Брошюра](http://www.domain.ru/upload/iblock/e3e/e3e06e60e37bc55fcb972f791ed04024.pdf)
+* [Коаксиальные разъемы Telegärtner для LCF78-50. Брошюра](http://www.domain.ru/upload/iblock/be5/be5c46776f6ddc61529020146f4c8c5e.pdf)
+* [Коаксиальные разъемы SPINNER для LCF78-50. Брошюра](http://www.domain.ru/upload/iblock/ded/ded9445296e95f735f0c827598a48f03.pdf)
 
 Особенности / Преимущества
 ==========================
@@ -84,7 +84,7 @@ LCF78-50J. Коаксиальный кабель с низким уровнем 
 
 |     |     |
 | --- | --- |
-| **Крайне низкое затухание радиосигнала.** Дополнительно уменьшенное затухание коаксиального кабеля с низким уровнем потерь LCF78-50 CellFlex ® в результате обеспечивает высоко эффективное прохождение сигнала в вашей радиочастотной системе, особенно на высоких радиочастотах.<br><br>**Полное экранирование.** Медный внешний проводник коаксиального кабеля CELLFLEX® LCF 78-50J создаёт непрерывный радиочастотный/электромагнитный экран, который сводит к минимуму помехи в системе. | ![](http://www.tt-telecom.ru/upload/iblock/d72/d729b17a2a5883bdf78b8d5751fc239f.jpg) |
+| **Крайне низкое затухание радиосигнала.** Дополнительно уменьшенное затухание коаксиального кабеля с низким уровнем потерь LCF78-50 CellFlex ® в результате обеспечивает высоко эффективное прохождение сигнала в вашей радиочастотной системе, особенно на высоких радиочастотах.<br><br>**Полное экранирование.** Медный внешний проводник коаксиального кабеля CELLFLEX® LCF 78-50J создаёт непрерывный радиочастотный/электромагнитный экран, который сводит к минимуму помехи в системе. | ![](http://www.domain.ru/upload/iblock/d72/d729b17a2a5883bdf78b8d5751fc239f.jpg) |
 
   
 
@@ -162,7 +162,7 @@ LCF78-50J. Коаксиальный кабель с низким уровнем 
 * Кабели с огнестойкими и огнеупорными оболочками обозначаются аббревиатурой **"JFN"**.
 * Аббревиатурой **"А"** (после аббревиатуры марки изделий) обозначены для того, чтобы отличить их от кабелей предыдущей версии. 
 
-Более подробно читайте в нашей статье ["Обзор коаксиальных кабелей RFS"](http://www.tt-telecom.ru/article/v_pomoshch_pokupatelyu/obzor_koaksialnykh_kabeley_rfs_cellflex_lcf/)
+Более подробно читайте в нашей статье ["Обзор коаксиальных кабелей RFS"](http://www.domain.ru/article/v_pomoshch_pokupatelyu/obzor_koaksialnykh_kabeley_rfs_cellflex_lcf/)
 
 * * *
 
@@ -170,17 +170,17 @@ LCF78-50J. Коаксиальный кабель с низким уровнем 
 
 **С сопутствующей продукцией можно ознакомиться по ссылкам:**
 
-* [Разъемы и переходы для кабеля LCF78-50](http://www.tt-telecom.ru/catalog/kabelnaya-produktsiya/razemy-i-perekhodniki/razemy-7-8/dlya-tipovogo-kabelya-7-8/)
-* [Устройства крепления кабеля LCF78-50](http://www.tt-telecom.ru/catalog/kabelnaya-produktsiya/kabelnye-krepleniya-zazemlenie-montazhnye-ustroystva-/kreplenie-78/)
-* [Изделия для монтажа кабеля LCF78-50](http://www.tt-telecom.ru/catalog/kabelnaya-produktsiya/instrument-dlya-krepleniya-montazha-kabelya-/)
-* [Устройства заземления кабелей](http://www.tt-telecom.ru/catalog/kabelnaya-produktsiya/zazemziteli/)
-* [Инструмент для разделки кабеля LCF78-50](http://www.tt-telecom.ru/catalog/kabelnaya-produktsiya/instrument-dlya-razdelki-kabelya-/instrument-rfs78/)
-* [Системы ввода кабеля (проходки)](http://www.tt-telecom.ru/catalog/kabelnaya-produktsiya/kabelnye-vvody/)
-* [Изделия и материалы для герметизации кабеля](http://www.tt-telecom.ru/catalog/kabelnaya-produktsiya/instrument-dlya-razdelki-ochistki-izolyatsii-kabelya-i-razemov-/)
+* [Разъемы и переходы для кабеля LCF78-50](http://www.domain.ru/catalog/kabelnaya-produktsiya/razemy-i-perekhodniki/razemy-7-8/dlya-tipovogo-kabelya-7-8/)
+* [Устройства крепления кабеля LCF78-50](http://www.domain.ru/catalog/kabelnaya-produktsiya/kabelnye-krepleniya-zazemlenie-montazhnye-ustroystva-/kreplenie-78/)
+* [Изделия для монтажа кабеля LCF78-50](http://www.domain.ru/catalog/kabelnaya-produktsiya/instrument-dlya-krepleniya-montazha-kabelya-/)
+* [Устройства заземления кабелей](http://www.domain.ru/catalog/kabelnaya-produktsiya/zazemziteli/)
+* [Инструмент для разделки кабеля LCF78-50](http://www.domain.ru/catalog/kabelnaya-produktsiya/instrument-dlya-razdelki-kabelya-/instrument-rfs78/)
+* [Системы ввода кабеля (проходки)](http://www.domain.ru/catalog/kabelnaya-produktsiya/kabelnye-vvody/)
+* [Изделия и материалы для герметизации кабеля](http://www.domain.ru/catalog/kabelnaya-produktsiya/instrument-dlya-razdelki-ochistki-izolyatsii-kabelya-i-razemov-/)
 
 **Контактная информация отдела продаж:**
 
-E-mail: **[market@tt-telecom.ru](mailto:market@tt-telecom.ru)**
+E-mail: **[market@domain.ru](mailto:market@domain.ru)**
 
 (+7 (495) 822-14-29
 
@@ -502,4 +502,4 @@ jQuery(document).ready(function(){jQuery('#mycarouse2').jcarousel({buttonNextHTM
     [LCF78-50JL кабель коаксиальный фидерный CELLFLEX 7/8" Lite, облегченный](/catalog/afu-dlya-mobilnoy-svyazi/2810231/gofrirovannyy-fidernyy-kabel/kabel-50-om-tipa-low-loss-flexible-cellflex/4928/)
     
 
-![](https://tt-telecom.ru/bitrix/spread.php?s=dHR0ZWxlY29tX3V0bV9zb3VyY2UBLQExNzQyNTY5OTc4AS8BAQJ0dHRlbGVjb21fdXRtX21lZGl1bQEtATE3NDI1Njk5NzgBLwEBAnR0dGVsZWNvbV91dG1fY2FtcGFpZ24BLQExNzQyNTY5OTc4AS8BAQJ0dHRlbGVjb21fdXRtX3Rlcm0BLQExNzQyNTY5OTc4AS8BAQI%3D&k=8f8ca41cb80ba5d5803e20dd177e3d33)
+![](https://domain.ru/bitrix/spread.php?s=dHR0ZWxlY29tX3V0bV9zb3VyY2UBLQExNzQyNTY5OTc4AS8BAQJ0dHRlbGVjb21fdXRtX21lZGl1bQEtATE3NDI1Njk5NzgBLwEBAnR0dGVsZWNvbV91dG1fY2FtcGFpZ24BLQExNzQyNTY5OTc4AS8BAQJ0dHRlbGVjb21fdXRtX3Rlcm0BLQExNzQyNTY5OTc4AS8BAQI%3D&k=8f8ca41cb80ba5d5803e20dd177e3d33)
