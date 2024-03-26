@@ -14,7 +14,7 @@ LCF78-50JA кабель коаксиальный фидерный CELLFLEX 7/8"
 | Вес номинальный, кг/км : | 350 |
 | Длина на барабане, м : | 500,1000,1500 |
 
-ЕСТЬ В НАЛИЧИИ
+***ЕСТЬ В НАЛИЧИИ
 
 Цена:   (function(w,d,u){ var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0); var h=d.getElementsByTagName('script')\[0\];h.parentNode.insertBefore(s,h); })(window,document,'https://erp.domain.ru/upload/crm/form/loader\_24\_i978fy.js'); по запросу  ![?](data:image/webp;base64,UklGRsYEAABXRUJQVlA4TLoEAAAvH8AHEI2QSduG2u5cRP/jtolYMJk/bGcsQhvC/6fKJosFk/lTZtHb/+BPIgtl2bZN29I4fLZt2/ar2Si91Bfkb9nOUpZUtG1fc810Pn3AzP2wItaMO2PEXSdLN+KE3NrWli06r+Du7q4pGRk0QAGEGtMEGUW4Oy0w7jO5u/t83/tcqbFty7Yy1j6vc9814AgMBfrnQNyfu5ekW9uObdmfbed6htmuoV0zu6a2zV9g225k27Zt654AIEZvrIfvSwDJKymJIP9LmvfA9yt14GEySmhTQgugXolEJZJYy28xI/IT6px/FfK0ks/xajq7R2T3fcD7f7f/YSuUMAKkRwkZVWOGam5gulujuamIQIgQ6IcO29/tydFuWd0n64Fv/2jPkySXMKEsQ0pIqVusVK2MNSriohJBZyDoDNBqfdFiHQss+we7nyQqYVMJNUAszdaOwstIj5N0o2canf0IP5jVPdIP+P1Xu56megn7QYpqYn+6LCkqJ4MbpFCkObORjD+pa3uUbkD4085nUxHYDxQNT3WU/6YXVCCyR7HlteKY1cukxqoWjl8+885Duv4GeSvTRA0/yEBgEUB15zPxYNeIU1RPHHGXaQUVRBbBWxxRyYH5p1phAFS/fz9euiCRlmmd9Fm7EgG/VIHBQANQu9OaHpYHgk6x5R0/CEbP/9H+c0xpjopH4LEd2n9imZaz/YK2wG7d+UwCMFLnZLUiXgIw083Il3e//fw5/t8wFUtHhz+8uTp+Q8uMjG1uZgDjFWgGlAWxlQXh5sxDbgF+erOce2diZsfx40eePl5BIZQYwUU2ilW7n6VAXwDQXCflTAsrEAJZhBvp2TitbRyYDX3hqr5+BSMjGdnuZiEwUIHyOkdLQFRmpGfjgJcDR+bG6PJ44xGvX6/M6E1jZIefscAsBWJ0gmrAM904QI9cMDB2Th89/+OBjUtPFpHZGMkg2sKtGXBEgSdazSOnQNgAGWOivXt01Mvj4FqJAgKqRnG7KERoLVgeTLwqcFC7QwSCQ6IKkBJpSaxeXD0+uIwJfQVKCC0G1bVRiyqWncGqChwA7vxYRDPGoBCDMaWmxZbnsXGBtfPcZgOCRQMURCXofX/JvwSAKvAXGP5ZWf/3EcwxJlqMYgXH1DG2rHDf7RheDVSuxe1isEwqQSL9M7CjvWinfVQspKAgLTVpsRwYKrm4cByVwihE4ToICkiAFOlfA5PfrjGi1eVvTElUZqmZuv/FK+t894ipk0DcLkSAaoh8A/2jfw8seL90OndqPlmA1Ewpxvj0Cl/eQgAghEJADf2WS0Ie6z8Fdn5v90a/2jkXFBZFKyYxEkQhituF96bc6UuWAs/0nwPXW+zW4Dt7dG+xc6ZPQiByjCIcFIQ3erLMDJZNQNB/C/wFVgP1vuMV/aRH7xb3mPdN6TnVFiMVXujIoi4D20GvKPAAWA6M/KhBk3eaM7cX/1QIqIqRhdkU9H3+rPtT4Yqo6n/AqJ8Ln137Ut+qEKBGxFvNRYU/H1z2Xx+O8LvvKf7GXBlVYFvL7+R3/jeuN835YP4EJUzxb5lL/a8Z03hffImvwiulwEygNpDYlU5KV7qV6dWpDPQFXutVBH4BL4D3ei0D)
 
@@ -33,7 +33,7 @@ LCF78-50JA
 
 **7/8" CELLFLEX® Low-Loss Foam-Dielectric flexible Coaxial Cable, Corrugate | Low VSWR | 85.0 kW | 5.0 GHz**
 
-За дополнительной информацией и по вопросам приобретения обращаться к специалистам отдела продаж по email: [market@domain.ru](mailto:market@domain.ru)
+***За дополнительной информацией и по вопросам приобретения обращаться к специалистам отдела продаж по email: [market@domain.ru](mailto:market@domain.ru)
 
 * * *
 
