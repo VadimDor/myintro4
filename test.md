@@ -1,4 +1,4 @@
-hiLCF78-50JA кабель коаксиальный фидерный CELLFLEX 7/8"
+LCF78-50JA кабель коаксиальный фидерный CELLFLEX 7/8"
 =====================================================
 
 (function(){var widget\_id='121497';var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src='//code.jivosite.com/script/widget/'+widget\_id;var ss=document.getElementsByTagName('script')\[0\];ss.parentNode.insertBefore(s,ss);})(); $(document).ready(function(){$("a\[rel=img_group\]").fancybox({'transitionIn':'none','transitionOut':'none'});$('.tt-jq-tooltip').qtip({style:{name:'green',tip:true}});});
